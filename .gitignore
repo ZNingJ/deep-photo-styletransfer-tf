@@ -1,0 +1,6 @@
+.idea/
+Desktop.ini
+some_results/
+temp_result/
+vgg19/vgg19.npy
+*.png
